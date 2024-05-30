@@ -1,4 +1,4 @@
-package javaAlgorithm.CHAP1;
+package javaAlgorithm.CHAP_1_2;
 import java.util.Scanner;
 
 // 입력 -> 시간 제한 -> 시간 복잡도 따지기

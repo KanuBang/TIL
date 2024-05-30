@@ -1,4 +1,4 @@
-package javaAlgorithm.CHAP1;
+package javaAlgorithm.CHAP_1_2;
 
 // 빅-오메가: 최선일 때 연산 횟수를 나타낸 표기법
 // 빅-세타: 보통일 때 연산 횟수를 나타낸 표기법
