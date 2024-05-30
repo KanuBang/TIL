@@ -2,7 +2,7 @@ package javaAlgorithm.CHAP3;
 
 import java.util.Scanner;
 
-public class 숫자의_합_구하기 {
+public class BOJ_숫자의합_11720 {
     public static void main(String[] args) {
         // 1. 입력을 받는다.
         Scanner scanner = new Scanner(System.in);
